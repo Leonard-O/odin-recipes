@@ -1,0 +1,9 @@
+.lasagna>img {
+    width: 500px;
+    object-fit: contain;
+}
+
+.ravioli>img {
+    width: 500px;
+    object-fit: contain;
+}
